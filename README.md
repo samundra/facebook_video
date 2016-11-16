@@ -1,4 +1,4 @@
-RIP Facebook Video
+Extract Unicode Text
 ==================
 
 A little php script to translate unicode obsfucation of facebook videos.
